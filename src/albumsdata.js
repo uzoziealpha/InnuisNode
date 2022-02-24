@@ -5,6 +5,8 @@ const albums =[
     artist: "Demi Riquisimo",
     album: "54 Reasons",
     cover: "https://i.ibb.co/RzhgcCp/qobuz-wr32hk7n36lsb.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "cz9pvaaz6b",
@@ -12,6 +14,7 @@ const albums =[
     artist: "The Beatles",
     album: "Abbey Road (Super Deluxe Edition)",
     cover: "https://i.ibb.co/60bJRPr/qobuz-trrcz9pvaaz6b.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable"
   },
   {
     id: "1333e113b4",
@@ -19,6 +22,7 @@ const albums =[
     artist: "Crackazat",
     album: "Alfa",
     cover: "https://i.ibb.co/9hQTCv1/undefined-album-cover.png",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
   },
   {
     id: "5wdgjb0aba",
@@ -26,6 +30,7 @@ const albums =[
     artist: "Louise Alder",
     album: "Chère nuit: French Songs",
     cover: "https://i.ibb.co/d5KQHwr/qobuz-afq5wdgjb0aba.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
   },
   {
     id: "cdpmwgf39b",
@@ -33,6 +38,8 @@ const albums =[
     artist: "Tom Grennan",
     album: "Evering Road (Deluxe)",
     cover: "https://i.ibb.co/5WT9h95/qobuz-qqto1ys155rxc.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "3vl3vf6ucc",
@@ -40,6 +47,8 @@ const albums =[
     artist: "Tricky",
     album: "Fall to Pieces (Remixes)",
     cover: "https://i.ibb.co/dM6wHtk/qobuz-ee93vl3vf6ucc.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "fx0ldcelqc",
@@ -47,6 +56,8 @@ const albums =[
     artist: "Gretchen Parlato",
     album: "Flor",
     cover: "https://i.ibb.co/XVDzhhX/qobuz-wy7fx0ldcelqc.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "0874021540",
@@ -54,6 +65,8 @@ const albums =[
     artist: "Badbadnotgood",
     album: "IV",
     cover: "https://i.ibb.co/87HzvGH/qobuz-0810874021540.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "2849070550",
@@ -62,6 +75,8 @@ const albums =[
     album:
       "Le Jazz de Cabu - Une petite histoire du swing de Louis Armstrong à Miles Davis...",
     cover: "https://i.ibb.co/k2Wsd7s/qobuz-9782849070550.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "9667373883",
@@ -69,6 +84,8 @@ const albums =[
     artist: "Millie Jackson",
     album: "Live and Uncensored / Live and Outrageous",
     cover: "https://i.ibb.co/pbrvjLk/qobuz-0029667373883.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "vc7r5ihbza",
@@ -76,6 +93,8 @@ const albums =[
     artist: "Parcels",
     album: "Live Vol. 1",
     cover: "https://i.ibb.co/WnbZtTR/qobuz-nx6vc7r5ihbza.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
   {
     id: "o1ys155rxc",
@@ -84,6 +103,8 @@ const albums =[
     album: "love is not dying",
     cover:
       "https://i.ibb.co/WnbZtTR/qobuz-nx6vc7r5ihbza.jpghttps://i.ibb.co/5WT9h95/qobuz-qqto1ys155rxc.jpg",
+    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+
   },
 ];
 export default albums;
