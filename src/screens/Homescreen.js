@@ -6,9 +6,13 @@ export default function Homescreen() {
   return (
     <div>
       <div className='row'>
-        {albums.map(album=>{
-            return <div className='col-md-4'>
-              <Album album={album}/>
+        
+         {albums.map(album=>{
+            
+            return <div className='col-md-2 p-3'>
+             <div>
+                <Album album={album}/>
+              </div>
             </div>
         })}
       </div>
