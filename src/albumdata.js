@@ -1,6 +1,6 @@
 const albums =[
   {
-    id: "2hk7n36lsb",
+   
     source: "QOBUZ",
     artist: "Demi Riquisimo",
     album: "54 Reasons",
@@ -9,7 +9,7 @@ const albums =[
 
   },
   {
-    id: "cz9pvaaz6b",
+   
     source: "LOCAL",
     artist: "The Beatles",
     album: "Abbey Road (Super Deluxe Edition)",
@@ -17,7 +17,7 @@ const albums =[
     description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable"
   },
   {
-    id: "1333e113b4",
+    
     source: "LOCAL",
     artist: "Crackazat",
     album: "Alfa",
@@ -25,7 +25,7 @@ const albums =[
     description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
   },
   {
-    id: "5wdgjb0aba",
+    
     source: "QOBUZ",
     artist: "Louise Alder",
     album: "Chère nuit: French Songs",
@@ -33,7 +33,7 @@ const albums =[
     description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
   },
   {
-    id: "cdpmwgf39b",
+   
     source: "QOBUZ",
     artist: "Tom Grennan",
     album: "Evering Road (Deluxe)",
@@ -42,7 +42,7 @@ const albums =[
 
   },
   {
-    id: "3vl3vf6ucc",
+   
     source: "QOBUZ",
     artist: "Tricky",
     album: "Fall to Pieces (Remixes)",
@@ -51,7 +51,7 @@ const albums =[
 
   },
   {
-    id: "fx0ldcelqc",
+    
     source: "LOCAL",
     artist: "Gretchen Parlato",
     album: "Flor",
@@ -60,7 +60,7 @@ const albums =[
 
   },
   {
-    id: "0874021540",
+    
     source: "QOBUZ",
     artist: "Badbadnotgood",
     album: "IV",
@@ -69,7 +69,7 @@ const albums =[
 
   },
   {
-    id: "2849070550",
+    
     source: "QOBUZ",
     artist: "Various Artists",
     album:
@@ -79,7 +79,7 @@ const albums =[
 
   },
   {
-    id: "9667373883",
+  
     source: "QOBUZ",
     artist: "Millie Jackson",
     album: "Live and Uncensored / Live and Outrageous",
@@ -88,7 +88,7 @@ const albums =[
 
   },
   {
-    id: "vc7r5ihbza",
+   
     source: "QOBUZ",
     artist: "Parcels",
     album: "Live Vol. 1",
@@ -97,12 +97,12 @@ const albums =[
 
   },
   {
-    id: "o1ys155rxc",
+    
     source: "QOBUZ",
     artist: "Jeremy Zucker",
     album: "love is not dying",
     cover:
-      "https://i.ibb.co/WnbZtTR/qobuz-nx6vc7r5ihbza.jpghttps://i.ibb.co/5WT9h95/qobuz-qqto1ys155rxc.jpg",
+      "https://i.ibb.co/5WT9h95/qobuz-qqto1ys155rxc.jpg",
     description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
 
   },
